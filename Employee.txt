@@ -1,0 +1,3 @@
+3	imran	ulshan	567889	44557654	manager	500000	
+3	imran	ulshan	567889	44557654	manager	500000	
+4	umer	ahria	33462735	445456837	employee	45678	
